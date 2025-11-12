@@ -17,7 +17,7 @@ main.ipynb
 ```
 
 ## Fast Evaluation
-Download the DPiKAN model weight [here](), and the PITN model weigh [here]().
+Download the DPiKAN model weight [here](https://drive.google.com/file/d/1D0smedLZxDZqS04zATiwJr6wc1pZVcKw/view?usp=sharing), and the PITN model weigh [here]().
 
 ## Acknowledgements
 This code is partially adapted from:
