@@ -1,5 +1,5 @@
-# DPiKAN
-Code of Our Paper 《DPiKAN: Decomposed Physics-Informed Kolmogorov–Arnold Networks for Cuffless Blood Pressure Estimation》
+# DPIKAN
+Code of Our Paper 《DPIKAN: Decomposed Physics-Informed Kolmogorov–Arnold Networks for Cuffless Blood Pressure Estimation》
 
 ## Installation of Packages 
 ```bash
@@ -17,7 +17,7 @@ main.ipynb
 ```
 
 ## Fast Evaluation
-Download the DPiKAN model weight [here](https://drive.google.com/file/d/1D0smedLZxDZqS04zATiwJr6wc1pZVcKw/view?usp=sharing), and the PITN model weigh [here](https://drive.google.com/file/d/1jz8v8_bSJ54AYSg80AcI33QxZjCmnd75/view?usp=drive_link).
+Download the DPIKAN model weight [here](https://drive.google.com/file/d/1D0smedLZxDZqS04zATiwJr6wc1pZVcKw/view?usp=sharing), and the PITN model weigh [here](https://drive.google.com/file/d/1jz8v8_bSJ54AYSg80AcI33QxZjCmnd75/view?usp=drive_link).
 
 ## Acknowledgements
 This code is partially adapted from:
