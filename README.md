@@ -11,7 +11,7 @@ pip install sklearn
 
 ## Usage
 
-To run the model results for the DPiKAN BP estimation run:
+To run the model results for the DPIKAN BP estimation run:
 ```bash
 main.ipynb
 ```
